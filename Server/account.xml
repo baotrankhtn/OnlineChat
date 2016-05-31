@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <user>
+        <username>bao</username>
+        <password>bao</password>
+        <status/>
+        <friend>
+            <account>
+                <name>chinh</name>
+            </account>
+        <account>
+                <name>duy</name>
+            </account>
+        </friend>
+    </user>
+<user>
+        <username>duy</username>
+        <password>duy</password>
+        <status/>
+        <friend>
+            <account>
+                <name>bao</name>
+            </account>
+        <account>
+                <name>chinh</name>
+            </account>
+        </friend>
+    </user>
+<user>
+        <username>chinh</username>
+        <password>chinh</password>
+        <status/>
+        <friend>
+            <account>
+                <name>bao</name>
+            </account>
+        <account>
+                <name>duy</name>
+            </account>
+        </friend>
+    </user>
+</data>
